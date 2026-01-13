@@ -1,0 +1,1441 @@
+[
+  {
+    "id": 1,
+    "Program Name": "Community Servings – Medically Tailored Meals & Nutrition (MA/RI)",
+    "Organization / Lead Entity": "Community Servings (nonprofit)",
+    "Program Type (can be multiple)": [
+      "Medically Tailored Meals",
+      "Nutrition Education",
+      "Research Initiative"
+    ],
+    "Setting / Sector": "Healthcare delivery; Medicaid/Medicare; Community-based",
+    "Population Targeted (can be multiple)": [
+      "People with severe, complex and/or chronic illness (e.g., diabetes, HIV, cancer, kidney disease) and food insecurity"
+    ],
+    "Population Engaged": "6,866 individuals served in FY24 (overall); 5,621 individuals served via healthcare contracts in FY24",
+    "Geography": "Massachusetts; Rhode Island",
+    "Partners": [
+      "MassHealth ACOs and other health plans/health systems",
+      "community health centers (see annual report for partner list)"
+    ],
+    "Intervention Description": "Home-delivered medically tailored meals designed by RDNs; nutrition assessments/counseling; care coordination with healthcare partners",
+    "Duration / Scale": "Ongoing; statewide/regional; healthcare contracts plus direct service",
+    "Funding Source": "Healthcare contracts (including Medicaid Flexible Services Program); philanthropy; grants",
+    "Start Year / End Year": "1990–present",
+    "Measured Outcomes": "Diet quality; food security; healthcare utilization and costs; clinical outcomes (e.g., A1c, BP) where evaluated",
+    "Evaluation Results (if published)": "Peer-reviewed and other evaluations report improved diet quality and associations with reduced admissions and lower medical spending (see linked JAMA Internal Medicine and JGIM publications).",
+    "Key Contacts / Website": "https://www.servings.org/",
+    "Key Contacts / Website URLs": [
+      "https://www.servings.org/"
+    ],
+    "Tags / Keywords": [
+      "MTM",
+      "Food insecurity",
+      "Diabetes",
+      "Medicaid",
+      "ACO",
+      "Massachusetts",
+      "Rhode Island"
+    ],
+    "Data Source / Last Updated": "Community Servings FY24 Annual Report; peer-reviewed literature; last updated 2026-01-05",
+    "Public Links (Sources)": [
+      "https://www.servings.org/wp-content/uploads/2024/10/CommunityServings-FY24-Annual-Report-for-web-1.pdf",
+      "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2730768",
+      "https://link.springer.com/article/10.1007/s11606-018-4716-z",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC6324546/"
+    ]
+  },
+  {
+    "id": 2,
+    "Program Name": "Community Servings: Food as Medicine for Diabetes (Clinical Trial)",
+    "Organization / Lead Entity": "Community Servings; academic collaborators (UNC, etc.)",
+    "Program Type (can be multiple)": [
+      "Medically Tailored Meals",
+      "Research Initiative"
+    ],
+    "Setting / Sector": "Healthcare delivery; Academic Research",
+    "Population Targeted (can be multiple)": [
+      "Adults with type 2 diabetes, elevated HbA1c (>8.0%), and food insecurity"
+    ],
+    "Population Engaged": "44 participants (published cross-over trial)",
+    "Geography": "Massachusetts (trial site)",
+    "Partners": [
+      "Community Servings",
+      "academic research partners"
+    ],
+    "Intervention Description": "Home delivery of 10 medically tailored meals/week for 12 weeks (cross-over design) versus usual care",
+    "Duration / Scale": "24-week randomized cross-over trial conducted June 2015–July 2017",
+    "Funding Source": "Research funding (see publication / ClinicalTrials.gov record)",
+    "Start Year / End Year": "2015–2017",
+    "Measured Outcomes": "Dietary quality; HbA1c; food security (per study design)",
+    "Evaluation Results (if published)": "Randomized cross-over trial published in Journal of General Internal Medicine (see link).",
+    "Key Contacts / Website": "https://clinicaltrials.gov/study/NCT02426138",
+    "Key Contacts / Website URLs": [
+      "https://clinicaltrials.gov/study/NCT02426138"
+    ],
+    "Tags / Keywords": [
+      "MTM",
+      "Diabetes",
+      "Food insecurity",
+      "RCT",
+      "Community Servings"
+    ],
+    "Data Source / Last Updated": "Peer-reviewed literature and ClinicalTrials.gov; last updated 2026-01-05",
+    "Public Links (Sources)": [
+      "https://link.springer.com/article/10.1007/s11606-018-4716-z",
+      "https://clinicaltrials.gov/study/NCT02426138"
+    ]
+  },
+  {
+    "id": 3,
+    "Program Name": "Food Is Medicine Massachusetts (FIMMA) Coalition",
+    "Organization / Lead Entity": "Community Servings + Massachusetts-based healthcare partners (coalition)",
+    "Program Type (can be multiple)": [
+      "Policy",
+      "Research Initiative"
+    ],
+    "Setting / Sector": "Policy; Healthcare delivery",
+    "Population Targeted (can be multiple)": [
+      "Massachusetts residents affected by diet-related illness and food insecurity (systems-level initiative)"
+    ],
+    "Population Engaged": "Not Available",
+    "Geography": "Massachusetts",
+    "Partners": [
+      "Healthcare providers",
+      "payers",
+      "policy leaders (coalition members)"
+    ],
+    "Intervention Description": "Coalition convening and strategy work to expand access to Food Is Medicine interventions and advance research/policy",
+    "Duration / Scale": "Ongoing coalition work",
+    "Funding Source": "Not Available",
+    "Start Year / End Year": "Not Available",
+    "Measured Outcomes": "Not Available",
+    "Evaluation Results (if published)": "Not Available",
+    "Key Contacts / Website": "https://www.servings.org/food-health-policy/massachusetts-food-is-medicine-state-plan/",
+    "Key Contacts / Website URLs": [
+      "https://www.servings.org/food-health-policy/massachusetts-food-is-medicine-state-plan/"
+    ],
+    "Tags / Keywords": [
+      "Coalition",
+      "Policy",
+      "Massachusetts",
+      "Food is Medicine"
+    ],
+    "Data Source / Last Updated": "Community Servings state plan page; last updated 2026-01-05",
+    "Public Links (Sources)": [
+      "https://www.servings.org/food-health-policy/massachusetts-food-is-medicine-state-plan/"
+    ]
+  },
+  {
+    "id": 4,
+    "Program Name": "MassHealth Flexible Services Program – Nutrition Supports (MA Medicaid)",
+    "Organization / Lead Entity": "MassHealth (Massachusetts Medicaid)",
+    "Program Type (can be multiple)": [
+      "Grocery Benefit",
+      "Medically Tailored Meals",
+      "Policy"
+    ],
+    "Setting / Sector": "Medicaid/Medicare; Healthcare delivery",
+    "Population Targeted (can be multiple)": [
+      "Eligible MassHealth members served via ACOs with health-related social needs (including nutrition supports)"
+    ],
+    "Population Engaged": "Not Available",
+    "Geography": "Massachusetts",
+    "Partners": [
+      "MassHealth ACOs",
+      "Community Servings and other nutrition service providers"
+    ],
+    "Intervention Description": "ACOs can partner with nutrition providers to offer nutrition supports including medically tailored meals (as described by Community Servings annual report and related research)",
+    "Duration / Scale": "Ongoing; statewide Medicaid program component",
+    "Funding Source": "Medicaid Section 1115 waiver / Flexible Services Program",
+    "Start Year / End Year": "Not Available–present",
+    "Measured Outcomes": "Health outcomes and utilization/cost where evaluated",
+    "Evaluation Results (if published)": "Evaluation consortium and related analyses reported in literature and program reports; see Health Affairs article and Community Servings annual report for context.",
+    "Key Contacts / Website": "https://www.servings.org/ampl-research/",
+    "Key Contacts / Website URLs": [
+      "https://www.servings.org/ampl-research/"
+    ],
+    "Tags / Keywords": [
+      "Medicaid",
+      "1115 waiver",
+      "Flexible Services",
+      "Massachusetts",
+      "MTM"
+    ],
+    "Data Source / Last Updated": "Community Servings annual report and AMPL research pages; Health Affairs article; last updated 2026-01-05",
+    "Public Links (Sources)": [
+      "https://www.servings.org/ampl-research/",
+      "https://www.healthaffairs.org/doi/10.1377/hlthaff.2024.01409",
+      "https://www.servings.org/wp-content/uploads/2024/10/CommunityServings-FY24-Annual-Report-for-web-1.pdf"
+    ]
+  },
+  {
+    "id": 5,
+    "Program Name": "Geisinger Fresh Food Farmacy",
+    "Organization / Lead Entity": "Geisinger Health",
+    "Program Type (can be multiple)": [
+      "Food Pharmacy",
+      "Produce Prescription",
+      "Nutrition Education",
+      "Research Initiative"
+    ],
+    "Setting / Sector": "Healthcare delivery; Health system/Health plan",
+    "Population Targeted (can be multiple)": [
+      "Patients with diabetes (HbA1c > 8.0) and food insecurity (and their households, per program descriptions)"
+    ],
+    "Population Engaged": "Nearly 600 individuals (reported); initial pilot ~250+ in year 1 (reported in program materials)",
+    "Geography": "Pennsylvania (northeastern PA; initial site Shamokin/Kulpmont region)",
+    "Partners": [
+      "Geisinger clinical teams",
+      "community partners for distribution (Not Available)"
+    ],
+    "Intervention Description": "Weekly access to healthy foods to prepare meals plus diabetes education and clinical support; “food-as-medicine” referral by primary care",
+    "Duration / Scale": "Ongoing; multi-site health system program; RCT registered on ClinicalTrials.gov",
+    "Funding Source": "Health system/plan funding; research grants (see trial/grant pages)",
+    "Start Year / End Year": "2016–present",
+    "Measured Outcomes": "HbA1c; BMI; BP; lipids; diabetes self-management; healthcare utilization/cost",
+    "Evaluation Results (if published)": "Program described in NEJM Catalyst and PubMed; trial registered on ClinicalTrials.gov; reports of improvements in HbA1c and other biomarkers.",
+    "Key Contacts / Website": "https://www.geisinger.org/freshfoodfarmacy/learn-more",
+    "Key Contacts / Website URLs": [
+      "https://www.geisinger.org/freshfoodfarmacy/learn-more"
+    ],
+    "Tags / Keywords": [
+      "Food as Medicine",
+      "Diabetes",
+      "Food insecurity",
+      "Food pharmacy",
+      "Pennsylvania"
+    ],
+    "Data Source / Last Updated": "Geisinger program pages; NEJM Catalyst; PubMed; ClinicalTrials.gov; last updated 2026-01-05",
+    "Public Links (Sources)": [
+      "https://www.geisinger.org/freshfoodfarmacy/learn-more",
+      "https://www.geisinger.org/freshfoodfarmacy/learn-more/our-purpose",
+      "https://catalyst.nejm.org/doi/full/10.1056/CAT.18.0212",
+      "https://pubmed.ncbi.nlm.nih.gov/31120339/",
+      "https://clinicaltrials.gov/study/NCT03718832"
+    ]
+  },
+  {
+    "id": 6,
+    "Program Name": "DC Greens Produce Rx",
+    "Organization / Lead Entity": "DC Greens",
+    "Program Type (can be multiple)": [
+      "Produce Prescription"
+    ],
+    "Setting / Sector": "Healthcare delivery; Medicaid/Medicare; Community-based",
+    "Population Targeted (can be multiple)": [
+      "DC Medicaid-enrolled patients with diet-related chronic illness (per program description)"
+    ],
+    "Population Engaged": "Not Available",
+    "Geography": "Washington, DC",
+    "Partners": [
+      "Healthcare providers",
+      "participating grocery retailers (per program description)"
+    ],
+    "Intervention Description": "Monthly funds on a preloaded produce prescription card for six months to purchase fruits and vegetables at participating grocery retailers",
+    "Duration / Scale": "Ongoing; 6-month prescription per participant",
+    "Funding Source": "Not Available",
+    "Start Year / End Year": "2012–present",
+    "Measured Outcomes": "Fruit and vegetable intake; BMI/weight; patient experience (per cited evaluations/overviews)",
+    "Evaluation Results (if published)": "Program evaluations summarized in DC-related reports; see program page and related evaluation references.",
+    "Key Contacts / Website": "https://dcgreens.org/produce-rx/",
+    "Key Contacts / Website URLs": [
+      "https://dcgreens.org/produce-rx/"
+    ],
+    "Tags / Keywords": [
+      "Produce Rx",
+      "Medicaid",
+      "DC",
+      "Food as Medicine"
+    ],
+    "Data Source / Last Updated": "DC Greens program page and related evaluation references; last updated 2026-01-05",
+    "Public Links (Sources)": [
+      "https://dcgreens.org/produce-rx/",
+      "https://www.milanurbanfoodpolicypact.org/washington-mpa19/"
+    ]
+  },
+  {
+    "id": 7,
+    "Program Name": "Produce Plus (Washington, DC)",
+    "Organization / Lead Entity": "FRESHFARM Markets (with DC Health / partners)",
+    "Program Type (can be multiple)": [
+      "Grocery Benefit",
+      "Produce Incentive"
+    ],
+    "Setting / Sector": "Community-based; Public health",
+    "Population Targeted (can be multiple)": [
+      "People receiving federal benefits / low-income DC residents (per program descriptions)"
+    ],
+    "Population Engaged": "Not Available",
+    "Geography": "Washington, DC",
+    "Partners": [
+      "DC Health",
+      "community organizations",
+      "farmers markets"
+    ],
+    "Intervention Description": "Produce benefit (vouchers or electronic benefits) redeemable for fruits and vegetables at participating markets/retail",
+    "Duration / Scale": "Ongoing seasonal/annual program (Not Available)",
+    "Funding Source": "Not Available",
+    "Start Year / End Year": "Not Available",
+    "Measured Outcomes": "Fruit and vegetable intake; program participation and redemption",
+    "Evaluation Results (if published)": "Evaluation materials available from FRESHFARM and partner evaluations.",
+    "Key Contacts / Website": "https://www.freshfarm.org/blog/food-access/produce-plus-evaluation",
+    "Key Contacts / Website URLs": [
+      "https://www.freshfarm.org/blog/food-access/produce-plus-evaluation"
+    ],
+    "Tags / Keywords": [
+      "Produce incentive",
+      "Farmers markets",
+      "DC"
+    ],
+    "Data Source / Last Updated": "FRESHFARM evaluation page; last updated 2026-01-05",
+    "Public Links (Sources)": [
+      "https://www.freshfarm.org/blog/food-access/produce-plus-evaluation"
+    ]
+  },
+  {
+    "id": 8,
+    "Program Name": "Wholesome Wave Georgia – Fruit and Vegetable Prescription (FVRx®) Program",
+    "Organization / Lead Entity": "Wholesome Wave Georgia",
+    "Program Type (can be multiple)": [
+      "Produce Prescription",
+      "Nutrition Education"
+    ],
+    "Setting / Sector": "Healthcare delivery; Community-based",
+    "Population Targeted (can be multiple)": [
+      "Patients served by participating clinical/community sites (e.g., FQHCs/hospitals) at risk for diet-related disease (see evaluation report)"
+    ],
+    "Population Engaged": "Not Available",
+    "Geography": "Georgia (multiple sites including Atlanta area, per evaluation report)",
+    "Partners": [
+      "Clinical sites and community partners listed in evaluation report"
+    ],
+    "Intervention Description": "Produce prescriptions / incentives to increase fruit and vegetable purchasing and consumption, paired with education and community access points",
+    "Duration / Scale": "Multi-site program; evaluation published 2016",
+    "Funding Source": "Not Available",
+    "Start Year / End Year": "Not Available",
+    "Measured Outcomes": "Fruit and vegetable intake; food security; clinical/behavior outcomes (per evaluation)",
+    "Evaluation Results (if published)": "2016 evaluation report summarizes implementation and outcomes.",
+    "Key Contacts / Website": "https://wholesomewavegeorgia.org/",
+    "Key Contacts / Website URLs": [
+      "https://wholesomewavegeorgia.org/"
+    ],
+    "Tags / Keywords": [
+      "Produce prescription",
+      "Georgia",
+      "Evaluation"
+    ],
+    "Data Source / Last Updated": "Wholesome Wave Georgia evaluation report; last updated 2026-01-05",
+    "Public Links (Sources)": [
+      "https://wholesomewavegeorgia.org/wp-content/uploads/2016FruitandVegetablePrescriptionProgramEvaluation.pdf"
+    ]
+  },
+  {
+    "id": 9,
+    "Program Name": "USDA Gus Schumacher Nutrition Incentive Program (GusNIP) – Produce Prescription Program",
+    "Organization / Lead Entity": "USDA National Institute of Food and Agriculture (NIFA)",
+    "Program Type (can be multiple)": [
+      "Produce Prescription",
+      "Policy",
+      "Research Initiative"
+    ],
+    "Setting / Sector": "Federal grant program; Community-based; Healthcare delivery",
+    "Population Targeted (can be multiple)": [
+      "Varies by funded project",
+      "generally participants eligible due to diet-related health risk/condition and food insecurity (per program description)"
+    ],
+    "Population Engaged": "Not Available",
+    "Geography": "National (U.S.)",
+    "Partners": [
+      "State/local grantees",
+      "healthcare and food retail partners"
+    ],
+    "Intervention Description": "Competitive grants supporting projects that prescribe fruits and vegetables to improve diet, reduce food insecurity, and reduce healthcare use/cost",
+    "Duration / Scale": "Ongoing federal program (produces multiple 3-year projects)",
+    "Funding Source": "USDA/NIFA federal appropriations (grant funding)",
+    "Start Year / End Year": "2019–present (GusNIP era; earlier predecessors existed)",
+    "Measured Outcomes": "Dietary intake; food insecurity; healthcare use/cost (program goal)",
+    "Evaluation Results (if published)": "Multi-site pooled analyses and other evaluations published (see example JAMA-style pooled analysis link).",
+    "Key Contacts / Website": "https://www.nifa.usda.gov/grants/programs/hunger-food-security-programs/gus-schumacher-nutrition-incentive-program",
+    "Key Contacts / Website URLs": [
+      "https://www.nifa.usda.gov/grants/programs/hunger-food-security-programs/gus-schumacher-nutrition-incentive-program"
+    ],
+    "Tags / Keywords": [
+      "GusNIP",
+      "Produce prescription",
+      "USDA",
+      "NIFA"
+    ],
+    "Data Source / Last Updated": "USDA NIFA program pages; last updated 2026-01-05",
+    "Public Links (Sources)": [
+      "https://www.nifa.usda.gov/grants/programs/hunger-food-security-programs/gus-schumacher-nutrition-incentive-program",
+      "https://www.nifa.usda.gov/grants/funding-opportunities/gus-schumacher-nutrition-incentive-program-produce-prescription",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC10529680/"
+    ]
+  },
+  {
+    "id": 10,
+    "Program Name": "Nutrition Incentive Hub – GusNIP Grantee Project Directory",
+    "Organization / Lead Entity": "Nutrition Incentive Hub (technical assistance / hub)",
+    "Program Type (can be multiple)": [
+      "Research Initiative",
+      "Policy",
+      "Directory/Resource"
+    ],
+    "Setting / Sector": "Academic/Community-based support",
+    "Population Targeted (can be multiple)": [
+      "GusNIP grantees and stakeholders"
+    ],
+    "Population Engaged": "Not Available",
+    "Geography": "National (U.S.)",
+    "Partners": [],
+    "Intervention Description": "Public directory of GusNIP-funded projects and resources",
+    "Duration / Scale": "Ongoing",
+    "Funding Source": "Not Available",
+    "Start Year / End Year": "Not Available",
+    "Measured Outcomes": "Not Available",
+    "Evaluation Results (if published)": "Not Available",
+    "Key Contacts / Website": "https://nutritionincentivehub.org/grantee-projects",
+    "Key Contacts / Website URLs": [
+      "https://nutritionincentivehub.org/grantee-projects"
+    ],
+    "Tags / Keywords": [
+      "GusNIP",
+      "Directory",
+      "Produce Rx",
+      "Nutrition incentives"
+    ],
+    "Data Source / Last Updated": "Nutrition Incentive Hub grantee directory; last updated 2026-01-05",
+    "Public Links (Sources)": [
+      "https://nutritionincentivehub.org/grantee-projects"
+    ]
+  },
+  {
+    "id": 11,
+    "Program Name": "National Produce Prescription Collaborative (NPPC)",
+    "Organization / Lead Entity": "NPPC (coalition; co-founded by Wholesome Wave and others)",
+    "Program Type (can be multiple)": [
+      "Policy",
+      "Research Initiative"
+    ],
+    "Setting / Sector": "Policy; Coalition",
+    "Population Targeted (can be multiple)": [
+      "Produce prescription implementers and policymakers"
+    ],
+    "Population Engaged": "Not Available",
+    "Geography": "National (U.S.)",
+    "Partners": [
+      "Member organizations",
+      "steering committee"
+    ],
+    "Intervention Description": "Coalition advancing policy and implementation to integrate produce prescriptions into clinical care and public programs",
+    "Duration / Scale": "Ongoing",
+    "Funding Source": "Not Available",
+    "Start Year / End Year": "Not Available",
+    "Measured Outcomes": "Not Available",
+    "Evaluation Results (if published)": "Not Available",
+    "Key Contacts / Website": "https://nppc.health/",
+    "Key Contacts / Website URLs": [
+      "https://nppc.health/"
+    ],
+    "Tags / Keywords": [
+      "Produce prescriptions",
+      "Policy",
+      "Coalition"
+    ],
+    "Data Source / Last Updated": "NPPC website; last updated 2026-01-05",
+    "Public Links (Sources)": [
+      "https://nppc.health/"
+    ]
+  },
+  {
+    "id": 12,
+    "Program Name": "Food is Medicine Coalition (FIMC)",
+    "Organization / Lead Entity": "Food is Medicine Coalition (national coalition)",
+    "Program Type (can be multiple)": [
+      "Policy",
+      "Research Initiative",
+      "Directory/Resource"
+    ],
+    "Setting / Sector": "Coalition; Community-based",
+    "Population Targeted (can be multiple)": [
+      "Nonprofit MTM/MTG providers and stakeholders"
+    ],
+    "Population Engaged": "Not Available",
+    "Geography": "National (U.S.)",
+    "Partners": [
+      "Member agencies (e.g., Community Servings, Project Angel Food, Food & Friends, MANNA, etc.)"
+    ],
+    "Intervention Description": "Coalition supporting policy, research, and best practices for medically tailored meals and related services",
+    "Duration / Scale": "Ongoing",
+    "Funding Source": "Not Available",
+    "Start Year / End Year": "Not Available",
+    "Measured Outcomes": "Not Available",
+    "Evaluation Results (if published)": "Publishes/curates research lists and standards (see links).",
+    "Key Contacts / Website": "https://fimcoalition.org/",
+    "Key Contacts / Website URLs": [
+      "https://fimcoalition.org/"
+    ],
+    "Tags / Keywords": [
+      "MTM",
+      "MTG",
+      "Coalition",
+      "Policy",
+      "Research"
+    ],
+    "Data Source / Last Updated": "FIMC website; last updated 2026-01-05",
+    "Public Links (Sources)": [
+      "https://fimcoalition.org/",
+      "https://fimcoalition.org/find-agency/",
+      "https://fimcoalition.org/research/published-research/"
+    ]
+  },
+  {
+    "id": 13,
+    "Program Name": "Boston Medical Center – Preventive Food Pantry",
+    "Organization / Lead Entity": "Boston Medical Center (Nourishing Our Community)",
+    "Program Type (can be multiple)": [
+      "Food Pharmacy",
+      "Grocery Benefit"
+    ],
+    "Setting / Sector": "Healthcare delivery",
+    "Population Targeted (can be multiple)": [
+      "BMC patients with nutrition-related illness/undernutrition",
+      "low-income patients referred by providers"
+    ],
+    "Population Engaged": "Not Available",
+    "Geography": "Boston, Massachusetts",
+    "Partners": [],
+    "Intervention Description": "Clinic-referred pantry where providers write “prescriptions” for supplemental foods aligned to needs; part of broader food and nutrition programs",
+    "Duration / Scale": "Ongoing",
+    "Funding Source": "Not Available",
+    "Start Year / End Year": "2001–present",
+    "Measured Outcomes": "Not Available",
+    "Evaluation Results (if published)": "Not Available",
+    "Key Contacts / Website": "https://www.bmc.org/departments/nourishing-our-community/preventive-food-pantry",
+    "Key Contacts / Website URLs": [
+      "https://www.bmc.org/departments/nourishing-our-community/preventive-food-pantry"
+    ],
+    "Tags / Keywords": [
+      "Food pantry",
+      "Food pharmacy",
+      "Hospital-based",
+      "Boston"
+    ],
+    "Data Source / Last Updated": "Boston Medical Center program page; last updated 2026-01-05",
+    "Public Links (Sources)": [
+      "https://www.bmc.org/departments/nourishing-our-community/preventive-food-pantry",
+      "https://www.aha.org/news/headline/2017-10-12-boston-medical-center-makes-healthy-food-part-patients-medical-care"
+    ]
+  },
+  {
+    "id": 14,
+    "Program Name": "Boston Medical Center Fresh Connect (Produce Prescription Study)",
+    "Organization / Lead Entity": "Boston Medical Center (research project)",
+    "Program Type (can be multiple)": [
+      "Produce Prescription",
+      "Research Initiative"
+    ],
+    "Setting / Sector": "Healthcare delivery; Academic Research",
+    "Population Targeted (can be multiple)": [
+      "BMC patients enrolled in study (produce prescription via smart card",
+      "see NIFA project page)"
+    ],
+    "Population Engaged": "Not Available",
+    "Geography": "Boston, Massachusetts",
+    "Partners": [],
+    "Intervention Description": "Participants receive a smart card loaded with produce prescription funds (e.g., $30) as part of research intervention",
+    "Duration / Scale": "Not Available",
+    "Funding Source": "USDA/NIFA (per NIFA project page)",
+    "Start Year / End Year": "Not Available",
+    "Measured Outcomes": "Fruit and vegetable intake; clinical outcomes (per study design)",
+    "Evaluation Results (if published)": "Not Available",
+    "Key Contacts / Website": "https://portal.nifa.usda.gov/web/crisprojectpages/1020866.html",
+    "Key Contacts / Website URLs": [
+      "https://portal.nifa.usda.gov/web/crisprojectpages/1020866.html"
+    ],
+    "Tags / Keywords": [
+      "Produce Rx",
+      "Research",
+      "Boston"
+    ],
+    "Data Source / Last Updated": "NIFA project page; last updated 2026-01-05",
+    "Public Links (Sources)": [
+      "https://portal.nifa.usda.gov/web/crisprojectpages/1020866.html"
+    ]
+  },
+  {
+    "id": 15,
+    "Program Name": "Kaiser Permanente – Food Prescriptions Study (Southern California)",
+    "Organization / Lead Entity": "Kaiser Permanente Southern California",
+    "Program Type (can be multiple)": [
+      "Produce Prescription",
+      "Research Initiative"
+    ],
+    "Setting / Sector": "Healthcare delivery; Academic/Health system research",
+    "Population Targeted (can be multiple)": [
+      "Kaiser Permanente adult members (18+) interested in weight loss with a child in household (eligibility per study site)"
+    ],
+    "Population Engaged": "Not Available",
+    "Geography": "Southern California",
+    "Partners": [
+      "Kaiser Permanente research teams"
+    ],
+    "Intervention Description": "Study of produce prescriptions / food prescriptions for eligible members (see study site)",
+    "Duration / Scale": "Research study",
+    "Funding Source": "Not Available",
+    "Start Year / End Year": "Not Available",
+    "Measured Outcomes": "Weight-related and diet outcomes (per study materials)",
+    "Evaluation Results (if published)": "Not Available",
+    "Key Contacts / Website": "https://www.kp-scalresearch.org/welcome-to-the-food-prescriptions-study/",
+    "Key Contacts / Website URLs": [
+      "https://www.kp-scalresearch.org/welcome-to-the-food-prescriptions-study/"
+    ],
+    "Tags / Keywords": [
+      "Kaiser Permanente",
+      "Produce prescriptions",
+      "Research"
+    ],
+    "Data Source / Last Updated": "KP research study site; last updated 2026-01-05",
+    "Public Links (Sources)": [
+      "https://www.kp-scalresearch.org/welcome-to-the-food-prescriptions-study/",
+      "https://about.kaiserpermanente.org/news/addressing-hunger-and-nutrition-to-improve-health"
+    ]
+  },
+  {
+    "id": 16,
+    "Program Name": "Kaiser Permanente – Food Is Medicine Center of Excellence",
+    "Organization / Lead Entity": "Kaiser Permanente",
+    "Program Type (can be multiple)": [
+      "Policy",
+      "Research Initiative"
+    ],
+    "Setting / Sector": "Healthcare delivery",
+    "Population Targeted (can be multiple)": [
+      "Patients and communities impacted by diet-related disease (system-level initiative)"
+    ],
+    "Population Engaged": "Not Available",
+    "Geography": "National (Kaiser Permanente service areas)",
+    "Partners": [],
+    "Intervention Description": "Center of Excellence to scale and study food as medicine interventions such as medically tailored meals and produce prescriptions",
+    "Duration / Scale": "Ongoing (launched 2024)",
+    "Funding Source": "Not Available",
+    "Start Year / End Year": "2024–present",
+    "Measured Outcomes": "Not Available",
+    "Evaluation Results (if published)": "Not Available",
+    "Key Contacts / Website": "https://about.kaiserpermanente.org/news/press-release-archive/launching-the-food-is-medicine-center-of-excellence",
+    "Key Contacts / Website URLs": [
+      "https://about.kaiserpermanente.org/news/press-release-archive/launching-the-food-is-medicine-center-of-excellence"
+    ],
+    "Tags / Keywords": [
+      "Health system",
+      "Center of Excellence",
+      "Food is Medicine"
+    ],
+    "Data Source / Last Updated": "Kaiser Permanente press release; last updated 2026-01-05",
+    "Public Links (Sources)": [
+      "https://about.kaiserpermanente.org/news/press-release-archive/launching-the-food-is-medicine-center-of-excellence"
+    ]
+  },
+  {
+    "id": 17,
+    "Program Name": "Houston Food Bank – FoodRx (Food for Change Markets)",
+    "Organization / Lead Entity": "Houston Food Bank",
+    "Program Type (can be multiple)": [
+      "Food Pharmacy",
+      "Grocery Benefit",
+      "Nutrition Education"
+    ],
+    "Setting / Sector": "Community-based; Healthcare delivery (via referrals)",
+    "Population Targeted (can be multiple)": [
+      "Individuals referred by healthcare partners or participating in community health programs"
+    ],
+    "Population Engaged": "Not Available",
+    "Geography": "Houston area, Texas",
+    "Partners": [
+      "Healthcare partners and community-based organizations (see partnerships page)"
+    ],
+    "Intervention Description": "Referred participants redeem FoodRx twice per month at Food For Change Markets for 30+ lbs of nutritious food; includes nutrition education materials",
+    "Duration / Scale": "Ongoing",
+    "Funding Source": "Not Available",
+    "Start Year / End Year": "Not Available",
+    "Measured Outcomes": "Redemption and program engagement; health outcomes in evaluation reports (see UTHealth evaluation brief)",
+    "Evaluation Results (if published)": "UTHealth evaluation brief report available (see link).",
+    "Key Contacts / Website": "https://www.houstonfoodbank.org/our-programs/food-for-change/foodrx/",
+    "Key Contacts / Website URLs": [
+      "https://www.houstonfoodbank.org/our-programs/food-for-change/foodrx/"
+    ],
+    "Tags / Keywords": [
+      "FoodRx",
+      "Food pharmacy",
+      "Food bank",
+      "Texas"
+    ],
+    "Data Source / Last Updated": "Houston Food Bank program pages and evaluation briefs; last updated 2026-01-05",
+    "Public Links (Sources)": [
+      "https://www.houstonfoodbank.org/our-programs/food-for-change/foodrx/",
+      "https://www.houstonfoodbank.org/wp-content/uploads/2019/09/factsheet_ffc_foodrx_092719.pdf",
+      "https://sph.uth.edu/research/centers/dell/research-tools/uthealth%20evaluation%20of%20the%20hfb%20food%20rx%20program%20-%20a%20brief%20report_final_11-15-22.pdf"
+    ]
+  },
+  {
+    "id": 18,
+    "Program Name": "Children's Hospital of Philadelphia (CHOP) – Food Pharmacy",
+    "Organization / Lead Entity": "Children's Hospital of Philadelphia",
+    "Program Type (can be multiple)": [
+      "Food Pharmacy",
+      "Grocery Benefit"
+    ],
+    "Setting / Sector": "Healthcare delivery",
+    "Population Targeted (can be multiple)": [
+      "Food-insecure families with children served by CHOP programs (including Healthy Weight Program, per CHOP news)"
+    ],
+    "Population Engaged": "Not Available",
+    "Geography": "Philadelphia area, Pennsylvania (multiple CHOP locations)",
+    "Partners": [
+      "Community food partners (e.g., Share Food Program, Sharing Excess) per CHOP resources"
+    ],
+    "Intervention Description": "Families receive groceries monthly for 6 months (per program page)",
+    "Duration / Scale": "6 months per family; ongoing program",
+    "Funding Source": "Not Available",
+    "Start Year / End Year": "2018–present (original program; expanded in 2021)",
+    "Measured Outcomes": "Food security and nutrition behaviors (program intent)",
+    "Evaluation Results (if published)": "Program descriptions and outcomes highlighted by CHOP; see CHOP news release.",
+    "Key Contacts / Website": "https://www.chop.edu/centers-programs/food-pharmacy",
+    "Key Contacts / Website URLs": [
+      "https://www.chop.edu/centers-programs/food-pharmacy"
+    ],
+    "Tags / Keywords": [
+      "Pediatrics",
+      "Food pharmacy",
+      "Philadelphia"
+    ],
+    "Data Source / Last Updated": "CHOP program pages; last updated 2026-01-05",
+    "Public Links (Sources)": [
+      "https://www.chop.edu/centers-programs/food-pharmacy",
+      "https://www.chop.edu/centers-programs/food-pharmacy/news"
+    ]
+  },
+  {
+    "id": 19,
+    "Program Name": "California Medi-Cal – Medically Tailored Meals Pilot Program (CHF)",
+    "Organization / Lead Entity": "California Department of Health Care Services (DHCS)",
+    "Program Type (can be multiple)": [
+      "Medically Tailored Meals",
+      "Policy",
+      "Research Initiative"
+    ],
+    "Setting / Sector": "Medicaid/Medicare; Healthcare delivery",
+    "Population Targeted (can be multiple)": [
+      "High-utilizing Medi-Cal beneficiaries with congestive heart failure (CHF) (per DHCS)"
+    ],
+    "Population Engaged": "Planned to serve 1,413 beneficiaries over four years (program page); enrollment totals vary by participating agency",
+    "Geography": "California (multi-county pilot)",
+    "Partners": [
+      "Participating agencies include Mama’s Kitchen, The Health Trust, Ceres Community Project (per pilot webinar slides and DHCS materials)"
+    ],
+    "Intervention Description": "Up to three medically tailored meals per day for 12 weeks, plus nutrition therapy (varies by agency); designed to reduce institutionalization and improve outcomes",
+    "Duration / Scale": "4-year state pilot; 12-week intervention per participant",
+    "Funding Source": "State Medicaid program funding (pilot budget reported by DHCS)",
+    "Start Year / End Year": "2018–2022 (pilot period; reporting may extend)",
+    "Measured Outcomes": "Hospitalizations; institutionalizations; health outcomes; utilization/cost",
+    "Evaluation Results (if published)": "Final legislative evaluation report available (see DHCS evaluation PDF).",
+    "Key Contacts / Website": "https://www.dhcs.ca.gov/services/ltc/Pages/Medically-Tailored-Meals-Pilot-Program.aspx",
+    "Key Contacts / Website URLs": [
+      "https://www.dhcs.ca.gov/services/ltc/Pages/Medically-Tailored-Meals-Pilot-Program.aspx"
+    ],
+    "Tags / Keywords": [
+      "Medi-Cal",
+      "MTM",
+      "CHF",
+      "California",
+      "Pilot"
+    ],
+    "Data Source / Last Updated": "DHCS program page and evaluation report; last updated 2026-01-05",
+    "Public Links (Sources)": [
+      "https://www.dhcs.ca.gov/services/ltc/Pages/Medically-Tailored-Meals-Pilot-Program.aspx",
+      "https://www.dhcs.ca.gov/formsandpubs/Documents/Legislative%20Reports/Evaluation-of-the-Medically-Tailored-Meals-Pilot-Program-Final-Report.pdf",
+      "https://www.partnershiphp.org/Providers/HealthServices/Documents/MTM%20Pilot%20Partnership%20Webinar%20Slides%2012-12-2018.pdf"
+    ]
+  },
+  {
+    "id": 20,
+    "Program Name": "Project Angel Food – Medically Tailored Meals (Los Angeles)",
+    "Organization / Lead Entity": "Project Angel Food",
+    "Program Type (can be multiple)": [
+      "Medically Tailored Meals",
+      "Nutrition Education"
+    ],
+    "Setting / Sector": "Community-based; Healthcare delivery",
+    "Population Targeted (can be multiple)": [
+      "People facing serious illness in Los Angeles County who are unable to shop/cook (varied diagnoses",
+      "see general info)"
+    ],
+    "Population Engaged": "Approx. 5,272 individuals served (reported) and ~1.5+ million meals/year (reported)",
+    "Geography": "Los Angeles County, California",
+    "Partners": [
+      "Healthcare partners and payers (Not Available)"
+    ],
+    "Intervention Description": "Preparation and home delivery of medically tailored meals; multiple therapeutic menus",
+    "Duration / Scale": "Ongoing",
+    "Funding Source": "Philanthropy; grants; contracts (Not Available)",
+    "Start Year / End Year": "1989–present",
+    "Measured Outcomes": "Patient health outcomes and cost/utilization where evaluated",
+    "Evaluation Results (if published)": "Participated in California Medi-Cal MTM pilot evaluated by DHCS (see evaluation report).",
+    "Key Contacts / Website": "https://angelfood.org/programs-and-pilots/medicallytailoredmeals",
+    "Key Contacts / Website URLs": [
+      "https://angelfood.org/programs-and-pilots/medicallytailoredmeals"
+    ],
+    "Tags / Keywords": [
+      "MTM",
+      "Los Angeles",
+      "Serious illness"
+    ],
+    "Data Source / Last Updated": "Project Angel Food program pages; DHCS evaluation report; last updated 2026-01-05",
+    "Public Links (Sources)": [
+      "https://angelfood.org/programs-and-pilots/medicallytailoredmeals",
+      "https://angelfood.org/delivery/pressroom/general-information",
+      "https://www.dhcs.ca.gov/formsandpubs/Documents/Legislative%20Reports/Evaluation-of-the-Medically-Tailored-Meals-Pilot-Program-Final-Report.pdf"
+    ]
+  },
+  {
+    "id": 21,
+    "Program Name": "Mama's Kitchen – Medically Tailored Meal Service (San Diego)",
+    "Organization / Lead Entity": "Mama's Kitchen",
+    "Program Type (can be multiple)": [
+      "Medically Tailored Meals",
+      "Nutrition Education"
+    ],
+    "Setting / Sector": "Community-based; Healthcare delivery",
+    "Population Targeted (can be multiple)": [
+      "People in San Diego County affected by HIV, cancer, heart disease, type 2 diabetes, chronic kidney disease who are unable to prepare meals (per program page)"
+    ],
+    "Population Engaged": "Not Available",
+    "Geography": "San Diego County, California",
+    "Partners": [
+      "Healthcare partners (Not Available)"
+    ],
+    "Intervention Description": "Free home delivery of three medically tailored meals per day for every day of the week/year; includes RDN education/coaching",
+    "Duration / Scale": "Ongoing; county-wide",
+    "Funding Source": "Not Available",
+    "Start Year / End Year": "Not Available",
+    "Measured Outcomes": "Nutrition security; health outcomes and utilization where evaluated",
+    "Evaluation Results (if published)": "Participating agency in California Medi-Cal MTM pilot (CHF) (see pilot materials).",
+    "Key Contacts / Website": "https://mamaskitchen.org/programs/home-delivered-meals-service/",
+    "Key Contacts / Website URLs": [
+      "https://mamaskitchen.org/programs/home-delivered-meals-service/"
+    ],
+    "Tags / Keywords": [
+      "MTM",
+      "San Diego",
+      "HIV",
+      "Cancer",
+      "Diabetes",
+      "Kidney disease"
+    ],
+    "Data Source / Last Updated": "Mama's Kitchen program pages; DHCS pilot materials; last updated 2026-01-05",
+    "Public Links (Sources)": [
+      "https://mamaskitchen.org/programs/home-delivered-meals-service/",
+      "https://www.partnershiphp.org/Providers/HealthServices/Documents/MTM%20Pilot%20Partnership%20Webinar%20Slides%2012-12-2018.pdf",
+      "https://www.dhcs.ca.gov/services/ltc/Pages/Medically-Tailored-Meals-Pilot-Program.aspx"
+    ]
+  },
+  {
+    "id": 22,
+    "Program Name": "Ceres Community Project – Medically Tailored Meals",
+    "Organization / Lead Entity": "Ceres Community Project",
+    "Program Type (can be multiple)": [
+      "Medically Tailored Meals",
+      "Medical Nutrition Therapy",
+      "Research Initiative"
+    ],
+    "Setting / Sector": "Community-based; Healthcare delivery",
+    "Population Targeted (can be multiple)": [
+      "Patients with chronic and acute illnesses (e.g., diabetes, CHF, cancer, COPD) referred by medical professional/plan"
+    ],
+    "Population Engaged": "Not Available",
+    "Geography": "California (service areas vary); statewide pilot described for Medi-Cal CHF members",
+    "Partners": [
+      "Healthcare systems/plans",
+      "DHCS (for Medi-Cal pilot)"
+    ],
+    "Intervention Description": "Home-delivered medically tailored meals (7–21 per week depending on contract) plus RDN sessions; participates in Medi-Cal MTM pilot and other studies",
+    "Duration / Scale": "Ongoing; includes time-limited pilots",
+    "Funding Source": "Contracts; Medicaid pilot funding; philanthropy (Not Available)",
+    "Start Year / End Year": "Not Available",
+    "Measured Outcomes": "Health outcomes and utilization/cost depending on project; CHF pilot outcomes",
+    "Evaluation Results (if published)": "California statewide Medi-Cal CHF pilot details and results posted by Ceres; DHCS evaluation report also available.",
+    "Key Contacts / Website": "https://www.ceresproject.org/get-meals/about-meal-program",
+    "Key Contacts / Website URLs": [
+      "https://www.ceresproject.org/get-meals/about-meal-program"
+    ],
+    "Tags / Keywords": [
+      "MTM",
+      "California",
+      "CHF",
+      "RDN",
+      "Pilot"
+    ],
+    "Data Source / Last Updated": "Ceres program and pilot pages; DHCS evaluation report; last updated 2026-01-05",
+    "Public Links (Sources)": [
+      "https://www.ceresproject.org/get-meals/about-meal-program",
+      "https://www.ceresproject.org/research-and-policy/research-studies-and-pilots/california-statewide-medical-pilot",
+      "https://www.dhcs.ca.gov/formsandpubs/Documents/Legislative%20Reports/Evaluation-of-the-Medically-Tailored-Meals-Pilot-Program-Final-Report.pdf"
+    ]
+  },
+  {
+    "id": 23,
+    "Program Name": "The Health Trust – Medi-Cal Medically Tailored Meals Pilot (Santa Clara / Southern San Mateo)",
+    "Organization / Lead Entity": "The Health Trust",
+    "Program Type (can be multiple)": [
+      "Medically Tailored Meals",
+      "Medical Nutrition Therapy"
+    ],
+    "Setting / Sector": "Medicaid/Medicare; Community-based",
+    "Population Targeted (can be multiple)": [
+      "Eligible Medi-Cal beneficiaries with CHF meeting pilot criteria (adult",
+      "recent utilization",
+      "residing in Santa Clara County or Southern San Mateo County, per pilot slides)"
+    ],
+    "Population Engaged": "Not Available",
+    "Geography": "Santa Clara County and Southern San Mateo County, California",
+    "Partners": [
+      "Referring hospitals/clinicians",
+      "DHCS (state oversight)"
+    ],
+    "Intervention Description": "MTM delivery initiated after discharge; includes RDN medical nutrition therapy sessions (per pilot flyer/slides)",
+    "Duration / Scale": "Pilot program; 12-week intervention per participant",
+    "Funding Source": "Medi-Cal MTM pilot program funding (state)",
+    "Start Year / End Year": "2018–2022 (pilot period)",
+    "Measured Outcomes": "Hospital/ER use; readmissions; health outcomes; institutionalization",
+    "Evaluation Results (if published)": "DHCS final evaluation report includes pilot evaluation.",
+    "Key Contacts / Website": "Not Available",
+    "Key Contacts / Website URLs": [],
+    "Tags / Keywords": [
+      "California",
+      "Medi-Cal",
+      "MTM",
+      "CHF",
+      "Santa Clara"
+    ],
+    "Data Source / Last Updated": "Pilot materials and DHCS evaluation report; last updated 2026-01-05",
+    "Public Links (Sources)": [
+      "https://healthtrust.org/wp-content/uploads/2018/05/2018-03-07-CA-FIMC-Flyer-v5.pdf",
+      "https://healthtrust.org/wp-content/uploads/2021/04/CHF-MTM-PowerPoint.pdf",
+      "https://www.dhcs.ca.gov/formsandpubs/Documents/Legislative%20Reports/Evaluation-of-the-Medically-Tailored-Meals-Pilot-Program-Final-Report.pdf"
+    ]
+  },
+  {
+    "id": 24,
+    "Program Name": "California Medi-Cal (CalAIM) – Community Supports: Medically Supportive Food & Nutrition",
+    "Organization / Lead Entity": "California Department of Health Care Services (DHCS)",
+    "Program Type (can be multiple)": [
+      "Medically Tailored Meals",
+      "Grocery Benefit",
+      "Policy"
+    ],
+    "Setting / Sector": "Medicaid/Medicare",
+    "Population Targeted (can be multiple)": [
+      "Eligible Medi-Cal members meeting Community Supports criteria (including nutrition-sensitive conditions",
+      "eligibility varies)"
+    ],
+    "Population Engaged": "Not Available",
+    "Geography": "California (statewide, by managed care plan implementation)",
+    "Partners": [
+      "Medi-Cal Managed Care Plans",
+      "community-based providers",
+      "meal vendors"
+    ],
+    "Intervention Description": "Community Supports include medically supportive food and nutrition services such as medically tailored meals (service definitions and implementation vary by MCP/provider)",
+    "Duration / Scale": "Ongoing statewide initiative (rolling implementation)",
+    "Funding Source": "Medicaid managed care (CalAIM)",
+    "Start Year / End Year": "2022–present",
+    "Measured Outcomes": "Member outcomes and utilization (varies; program-level monitoring)",
+    "Evaluation Results (if published)": "Not Available",
+    "Key Contacts / Website": "https://calaim.dhcs.ca.gov/pages/community-supports",
+    "Key Contacts / Website URLs": [
+      "https://calaim.dhcs.ca.gov/pages/community-supports"
+    ],
+    "Tags / Keywords": [
+      "CalAIM",
+      "Medi-Cal",
+      "Community Supports",
+      "MTM"
+    ],
+    "Data Source / Last Updated": "DHCS CalAIM Community Supports page; last updated 2026-01-05",
+    "Public Links (Sources)": [
+      "https://calaim.dhcs.ca.gov/pages/community-supports"
+    ]
+  },
+  {
+    "id": 25,
+    "Program Name": "North Carolina Healthy Opportunities Pilot (HOP) – Food Services",
+    "Organization / Lead Entity": "NC Medicaid / NC DHHS (1115 waiver pilot)",
+    "Program Type (can be multiple)": [
+      "Medically Tailored Meals",
+      "Produce Prescription",
+      "Nutrition Education",
+      "Policy"
+    ],
+    "Setting / Sector": "Medicaid/Medicare; Community-based",
+    "Population Targeted (can be multiple)": [
+      "Eligible Medicaid members in pilot regions with health-related social needs (food domain)"
+    ],
+    "Population Engaged": "Not Available",
+    "Geography": "North Carolina (pilot regions)",
+    "Partners": [
+      "Human service organizations",
+      "managed care",
+      "community networks"
+    ],
+    "Intervention Description": "Food services included produce prescriptions, healthy food boxes/meals, medically tailored meal delivery, nutrition classes, and case management (per NC Medicaid)",
+    "Duration / Scale": "Pilot launched March 2022; services stopped July 1, 2025 due to funding (per partner notice)",
+    "Funding Source": "Medicaid Section 1115 waiver demonstration",
+    "Start Year / End Year": "2022–2025",
+    "Measured Outcomes": "Health outcomes, utilization, and social needs (pilot evaluation ongoing/varies)",
+    "Evaluation Results (if published)": "Not Available",
+    "Key Contacts / Website": "https://medicaid.ncdhhs.gov/blog/2022/03/15/healthy-opportunities-food-services-available",
+    "Key Contacts / Website URLs": [
+      "https://medicaid.ncdhhs.gov/blog/2022/03/15/healthy-opportunities-food-services-available"
+    ],
+    "Tags / Keywords": [
+      "North Carolina",
+      "Medicaid",
+      "1115",
+      "Produce prescriptions",
+      "MTM"
+    ],
+    "Data Source / Last Updated": "NC Medicaid blog and partner program notice; last updated 2026-01-05",
+    "Public Links (Sources)": [
+      "https://medicaid.ncdhhs.gov/blog/2022/03/15/healthy-opportunities-food-services-available",
+      "https://www.partnersbhm.org/healthy-opportunities/",
+      "https://www.chcs.org/resource/addressing-food-insecurity-for-medicaid-populations-lessons-from-north-carolinas-healthy-opportunities-pilots/"
+    ]
+  },
+  {
+    "id": 26,
+    "Program Name": "Food & Friends – Medically Tailored Meals and Nutrition Services",
+    "Organization / Lead Entity": "Food & Friends",
+    "Program Type (can be multiple)": [
+      "Medically Tailored Meals",
+      "Grocery Benefit",
+      "Nutrition Counseling"
+    ],
+    "Setting / Sector": "Community-based; Healthcare delivery",
+    "Population Targeted (can be multiple)": [
+      "Individuals with serious illnesses (e.g., HIV/AIDS, cancer, diabetes, heart and renal disease) and their families/caregivers"
+    ],
+    "Population Engaged": "5,476 people served and 1,892,540 medically tailored meals provided in 2023 (reported)",
+    "Geography": "Washington, DC; Maryland; Virginia",
+    "Partners": [
+      "Healthcare providers",
+      "public agencies and funders (Not Available)"
+    ],
+    "Intervention Description": "Home-delivered medically tailored meals and groceries plus nutrition counseling; weekly deliveries",
+    "Duration / Scale": "Ongoing",
+    "Funding Source": "Public and philanthropic funding (Not Available)",
+    "Start Year / End Year": "Not Available",
+    "Measured Outcomes": "Client health and well-being; utilization/cost in studies (Not Available)",
+    "Evaluation Results (if published)": "Not Available",
+    "Key Contacts / Website": "https://foodandfriends.org/",
+    "Key Contacts / Website URLs": [
+      "https://foodandfriends.org/"
+    ],
+    "Tags / Keywords": [
+      "MTM",
+      "DC",
+      "HIV",
+      "Cancer",
+      "Chronic disease"
+    ],
+    "Data Source / Last Updated": "Food & Friends website; last updated 2026-01-05",
+    "Public Links (Sources)": [
+      "https://foodandfriends.org/"
+    ]
+  },
+  {
+    "id": 27,
+    "Program Name": "MANNA – Medically Tailored Meals and Nutrition Education",
+    "Organization / Lead Entity": "MANNA (Metropolitan Area Neighborhood Nutrition Alliance)",
+    "Program Type (can be multiple)": [
+      "Medically Tailored Meals",
+      "Nutrition Education"
+    ],
+    "Setting / Sector": "Community-based; Healthcare delivery",
+    "Population Targeted (can be multiple)": [
+      "People in Greater Philadelphia area battling serious illness"
+    ],
+    "Population Engaged": "Not Available",
+    "Geography": "Greater Philadelphia, Pennsylvania",
+    "Partners": [
+      "Healthcare referral partners (Not Available)"
+    ],
+    "Intervention Description": "Home-delivered medically tailored meals with diet modifications; nutrition education",
+    "Duration / Scale": "Ongoing; time-limited eligibility per client need",
+    "Funding Source": "Not Available",
+    "Start Year / End Year": "Not Available",
+    "Measured Outcomes": "Not Available",
+    "Evaluation Results (if published)": "Not Available",
+    "Key Contacts / Website": "https://mannapa.org/",
+    "Key Contacts / Website URLs": [
+      "https://mannapa.org/"
+    ],
+    "Tags / Keywords": [
+      "MTM",
+      "Philadelphia",
+      "Serious illness"
+    ],
+    "Data Source / Last Updated": "MANNA website; last updated 2026-01-05",
+    "Public Links (Sources)": [
+      "https://mannapa.org/"
+    ]
+  },
+  {
+    "id": 28,
+    "Program Name": "Moveable Feast – Medically Tailored Meals and Medical Nutrition Therapy",
+    "Organization / Lead Entity": "Moveable Feast",
+    "Program Type (can be multiple)": [
+      "Medically Tailored Meals",
+      "Medical Nutrition Therapy"
+    ],
+    "Setting / Sector": "Community-based; Healthcare delivery",
+    "Population Targeted (can be multiple)": [
+      "Marylanders experiencing food insecurity and serious chronic illness"
+    ],
+    "Population Engaged": "Nearly 2,500 Marylanders served and >420,000 meals served in 2024 (reported)",
+    "Geography": "Baltimore City and 14 Maryland counties (per program page)",
+    "Partners": [
+      "CRISP (Maryland HIE) and healthcare providers (per annual report)"
+    ],
+    "Intervention Description": "Weekly delivery of medically tailored meals; may include produce and supplements; RDN support",
+    "Duration / Scale": "Ongoing",
+    "Funding Source": "Government grants; healthcare contracts; philanthropy (per annual report)",
+    "Start Year / End Year": "Not Available",
+    "Measured Outcomes": "Malnutrition risk; self-reported health; healthcare cost data linkage (per annual report)",
+    "Evaluation Results (if published)": "Annual report notes data collection; published study includes MTM managed by Moveable Feast in Baltimore (see PubMed Central link).",
+    "Key Contacts / Website": "https://www.mfeast.org/",
+    "Key Contacts / Website URLs": [
+      "https://www.mfeast.org/"
+    ],
+    "Tags / Keywords": [
+      "MTM",
+      "Maryland",
+      "Food insecurity",
+      "Chronic illness"
+    ],
+    "Data Source / Last Updated": "Moveable Feast annual report and related literature; last updated 2026-01-05",
+    "Public Links (Sources)": [
+      "https://www.mfeast.org/",
+      "https://www.mfeast.org/wp-content/uploads/2025/04/Moveable-Feast-Annual-Report-2024-Print.pdf",
+      "https://foodandfriends.org/news/new-studies-show-medically-tailored-meal-programs-improve-health-and-reduce-healthcare-costs/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC12120087/"
+    ]
+  },
+  {
+    "id": 29,
+    "Program Name": "God's Love We Deliver – Medically Tailored Meals",
+    "Organization / Lead Entity": "God's Love We Deliver",
+    "Program Type (can be multiple)": [
+      "Medically Tailored Meals",
+      "Nutrition Education",
+      "Nutrition Counseling"
+    ],
+    "Setting / Sector": "Community-based; Healthcare delivery",
+    "Population Targeted (can be multiple)": [
+      "People living with HIV/AIDS, cancer, and other serious illnesses who cannot shop/cook (per annual report)"
+    ],
+    "Population Engaged": "12,783 individuals served (FY2023) and 3,664,248 meals delivered (FY2023) (reported)",
+    "Geography": "New York City (5 boroughs) and parts of NJ/Long Island/Westchester (per annual report)",
+    "Partners": [
+      "Healthcare contracts and community partners (Not Available)"
+    ],
+    "Intervention Description": "Home-delivered medically tailored meals plus illness-specific nutrition education and counseling; free regardless of income",
+    "Duration / Scale": "Ongoing",
+    "Funding Source": "Philanthropy; grants; healthcare contracts (Not Available)",
+    "Start Year / End Year": "1985–present",
+    "Measured Outcomes": "Utilization/cost and health outcomes in literature; nutrition counseling and education reach",
+    "Evaluation Results (if published)": "Publishes research/policy resources; program referenced in MTM research literature; see annual report and research page.",
+    "Key Contacts / Website": "https://www.glwd.org/",
+    "Key Contacts / Website URLs": [
+      "https://www.glwd.org/"
+    ],
+    "Tags / Keywords": [
+      "MTM",
+      "New York",
+      "HIV",
+      "Cancer",
+      "Serious illness"
+    ],
+    "Data Source / Last Updated": "GLWD FY2023 annual report; last updated 2026-01-05",
+    "Public Links (Sources)": [
+      "https://www.glwd.org/",
+      "https://www.glwd.org/wp-content/uploads/2024/12/glwd_AR2023_condensed_rev2.pdf",
+      "https://www.glwd.org/food-is-medicine/policy/research/"
+    ]
+  },
+  {
+    "id": 30,
+    "Program Name": "Open Hand Atlanta – Medically Tailored Meals",
+    "Organization / Lead Entity": "Open Hand Atlanta",
+    "Program Type (can be multiple)": [
+      "Medically Tailored Meals",
+      "Nutrition Education"
+    ],
+    "Setting / Sector": "Community-based; Healthcare delivery",
+    "Population Targeted (can be multiple)": [
+      "Individuals living with severe, complex and/or chronic illnesses through referral (per program description)"
+    ],
+    "Population Engaged": "Not Available",
+    "Geography": "Atlanta metro / Georgia (service area Not Available)",
+    "Partners": [
+      "Healthcare partners (see partnership page)"
+    ],
+    "Intervention Description": "Frozen medically tailored meals delivered to doorsteps; diet-specific menus designed by RDNs",
+    "Duration / Scale": "Ongoing",
+    "Funding Source": "Not Available",
+    "Start Year / End Year": "Not Available",
+    "Measured Outcomes": "Health outcomes and patient satisfaction (program intent)",
+    "Evaluation Results (if published)": "Not Available",
+    "Key Contacts / Website": "https://www.openhandatlanta.org/get-meals/",
+    "Key Contacts / Website URLs": [
+      "https://www.openhandatlanta.org/get-meals/"
+    ],
+    "Tags / Keywords": [
+      "MTM",
+      "Georgia",
+      "Chronic illness"
+    ],
+    "Data Source / Last Updated": "Open Hand Atlanta website; last updated 2026-01-05",
+    "Public Links (Sources)": [
+      "https://www.openhandatlanta.org/get-meals/",
+      "https://www.openhandatlanta.org/partner-with-us/health-partnership/"
+    ]
+  },
+  {
+    "id": 31,
+    "Program Name": "Open Arms of Minnesota – Medically Tailored Meal Delivery",
+    "Organization / Lead Entity": "Open Arms of Minnesota",
+    "Program Type (can be multiple)": [
+      "Medically Tailored Meals",
+      "Nutrition Education",
+      "Nutrition Counseling"
+    ],
+    "Setting / Sector": "Community-based; Healthcare delivery",
+    "Population Targeted (can be multiple)": [
+      "Minnesota residents living with life-threatening illness (e.g., HIV/AIDS, cancer, ALS, MS, ESRD, CHF, COPD) and their families (per program descriptions)"
+    ],
+    "Population Engaged": "Nearly 5,000 people and ~1.5 million meals in 2023 (reported)",
+    "Geography": "Twin Cities / Minnesota (service area varies)",
+    "Partners": [],
+    "Intervention Description": "Medically tailored meal preparation and delivery guided by RDNs; includes support for caregivers/dependents",
+    "Duration / Scale": "Ongoing",
+    "Funding Source": "Not Available",
+    "Start Year / End Year": "1986–present",
+    "Measured Outcomes": "Not Available",
+    "Evaluation Results (if published)": "Not Available",
+    "Key Contacts / Website": "https://www.openarmsmn.org/get-meals",
+    "Key Contacts / Website URLs": [
+      "https://www.openarmsmn.org/get-meals"
+    ],
+    "Tags / Keywords": [
+      "MTM",
+      "Minnesota",
+      "Chronic illness"
+    ],
+    "Data Source / Last Updated": "Open Arms impact reporting; last updated 2026-01-05",
+    "Public Links (Sources)": [
+      "https://www.securian.com/about-us/newsroom/articles/serving-up-abundance-of-support-for-open-arms.html",
+      "https://donate.openarmsmn.org/team/390169"
+    ]
+  },
+  {
+    "id": 32,
+    "Program Name": "Lifelong – Chicken Soup Brigade (Medically Tailored Meals & Groceries)",
+    "Organization / Lead Entity": "Lifelong (Seattle, WA)",
+    "Program Type (can be multiple)": [
+      "Medically Tailored Meals",
+      "Medically Tailored Groceries",
+      "Nutrition Counseling"
+    ],
+    "Setting / Sector": "Community-based; Healthcare delivery",
+    "Population Targeted (can be multiple)": [
+      "Low-income and underserved people in King County with nutrition-related diseases (per program page)"
+    ],
+    "Population Engaged": "Not Available",
+    "Geography": "King County, Washington (and broader via partnerships, per external descriptions)",
+    "Partners": [],
+    "Intervention Description": "Prepare and deliver medically tailored meals and groceries; nutrition support services",
+    "Duration / Scale": "Ongoing",
+    "Funding Source": "Not Available",
+    "Start Year / End Year": "Not Available",
+    "Measured Outcomes": "Not Available",
+    "Evaluation Results (if published)": "Not Available",
+    "Key Contacts / Website": "https://www.lifelong.org/food-nutrition",
+    "Key Contacts / Website URLs": [
+      "https://www.lifelong.org/food-nutrition"
+    ],
+    "Tags / Keywords": [
+      "MTM",
+      "MTG",
+      "Seattle",
+      "Washington"
+    ],
+    "Data Source / Last Updated": "Lifelong program pages; last updated 2026-01-05",
+    "Public Links (Sources)": [
+      "https://www.lifelong.org/food-nutrition",
+      "https://www.lifelong.org/meals"
+    ]
+  },
+  {
+    "id": 33,
+    "Program Name": "Project Open Hand – Wellness Program (Medically Tailored Meals & Groceries)",
+    "Organization / Lead Entity": "Project Open Hand",
+    "Program Type (can be multiple)": [
+      "Medically Tailored Meals",
+      "Grocery Benefit",
+      "Nutrition Education"
+    ],
+    "Setting / Sector": "Community-based; Healthcare delivery",
+    "Population Targeted (can be multiple)": [
+      "Clients living with critical illness (e.g., HIV/AIDS, heart disease, diabetes) and seniors/adults with disabilities (per program pages)"
+    ],
+    "Population Engaged": ">2,500 meals prepared daily and groceries for >200 clients/day (reported; not unique individuals)",
+    "Geography": "San Francisco Bay Area (San Francisco and Oakland)",
+    "Partners": [
+      "Health plans (e.g., SF Health Plan program example)"
+    ],
+    "Intervention Description": "Pickup or home-delivered medically tailored meals; weekly fresh groceries; community nutrition programs",
+    "Duration / Scale": "Ongoing",
+    "Funding Source": "Not Available",
+    "Start Year / End Year": "Not Available",
+    "Measured Outcomes": "Not Available",
+    "Evaluation Results (if published)": "Not Available",
+    "Key Contacts / Website": "https://www.openhand.org/get-meals",
+    "Key Contacts / Website URLs": [
+      "https://www.openhand.org/get-meals"
+    ],
+    "Tags / Keywords": [
+      "MTM",
+      "Groceries",
+      "Bay Area",
+      "HIV",
+      "Seniors"
+    ],
+    "Data Source / Last Updated": "Project Open Hand program pages; last updated 2026-01-05",
+    "Public Links (Sources)": [
+      "https://www.openhand.org/get-meals",
+      "https://www.openhand.org/get-meals/wellness-programs",
+      "https://www.sfhp.org/news/health-and-wellness/medically-tailored-meals-program-with-project-open-hand/"
+    ]
+  },
+  {
+    "id": 34,
+    "Program Name": "Fresh Prescription (Fresh Rx) Program – Detroit, MI",
+    "Organization / Lead Entity": "Not Available",
+    "Program Type (can be multiple)": [
+      "Produce Prescription",
+      "Research Initiative"
+    ],
+    "Setting / Sector": "Healthcare delivery; Academic Research",
+    "Population Targeted (can be multiple)": [
+      "Low-income patients with diabetes in Detroit, MI (per RCT publication abstract)"
+    ],
+    "Population Engaged": "Not Available",
+    "Geography": "Detroit, Michigan",
+    "Partners": [],
+    "Intervention Description": "15-week produce prescription program designed to improve access and consumption of fruits and vegetables",
+    "Duration / Scale": "15-week pilot randomized controlled trial",
+    "Funding Source": "Not Available",
+    "Start Year / End Year": "Not Available",
+    "Measured Outcomes": "Fruit and vegetable intake; diabetes-related outcomes (per RCT)",
+    "Evaluation Results (if published)": "Pilot RCT published in 2021 (see link).",
+    "Key Contacts / Website": "Not Available",
+    "Key Contacts / Website URLs": [],
+    "Tags / Keywords": [
+      "Fresh Rx",
+      "Produce prescription",
+      "Detroit",
+      "Diabetes",
+      "RCT"
+    ],
+    "Data Source / Last Updated": "Peer-reviewed literature; last updated 2026-01-05",
+    "Public Links (Sources)": [
+      "https://www.sciencedirect.com/science/article/pii/S2211335521001005"
+    ]
+  },
+  {
+    "id": 35,
+    "Program Name": "Food Is Medicine Institute @ Tufts University",
+    "Organization / Lead Entity": "Tufts University",
+    "Program Type (can be multiple)": [
+      "Research Initiative",
+      "Policy"
+    ],
+    "Setting / Sector": "Academic Research",
+    "Population Targeted (can be multiple)": [
+      "Researchers, policymakers, implementers (evidence and projects)"
+    ],
+    "Population Engaged": "Not Available",
+    "Geography": "National (U.S.)",
+    "Partners": [
+      "Multiple project partners (see partner pages)"
+    ],
+    "Intervention Description": "Research, evaluation, and dissemination hub for Food Is Medicine interventions and policy",
+    "Duration / Scale": "Ongoing",
+    "Funding Source": "Not Available",
+    "Start Year / End Year": "Not Available",
+    "Measured Outcomes": "Not Available",
+    "Evaluation Results (if published)": "Not Available",
+    "Key Contacts / Website": "https://tuftsfoodismedicine.org/",
+    "Key Contacts / Website URLs": [
+      "https://tuftsfoodismedicine.org/"
+    ],
+    "Tags / Keywords": [
+      "Research",
+      "Evidence",
+      "Tufts",
+      "Food is Medicine"
+    ],
+    "Data Source / Last Updated": "Tufts Food Is Medicine Institute site; last updated 2026-01-05",
+    "Public Links (Sources)": [
+      "https://tuftsfoodismedicine.org/"
+    ]
+  },
+  {
+    "id": 36,
+    "Program Name": "Multi-site Produce Prescription Pooled Evaluation (22 program locations) – Tufts/Wholesome Wave collaboration",
+    "Organization / Lead Entity": "Tufts Food Is Medicine Institute / collaborators (see publication)",
+    "Program Type (can be multiple)": [
+      "Produce Prescription",
+      "Research Initiative"
+    ],
+    "Setting / Sector": "Academic Research; Healthcare delivery; Community-based",
+    "Population Targeted (can be multiple)": [
+      "Adults and children participating in produce prescription programs across 22 U.S. locations (per publication)"
+    ],
+    "Population Engaged": "Not Available (programs pooled; study includes multiple sites)",
+    "Geography": "Multi-state (22 U.S. locations)",
+    "Partners": [
+      "Multiple produce prescription programs (pooled evaluation)"
+    ],
+    "Intervention Description": "Pooled analysis of produce prescription participation and outcomes",
+    "Duration / Scale": "Published 2023",
+    "Funding Source": "Not Available",
+    "Start Year / End Year": "Not Available",
+    "Measured Outcomes": "Fruit and vegetable intake; food insecurity; self-reported health; HbA1c, BP, BMI among adults with poor cardiometabolic health",
+    "Evaluation Results (if published)": "Published pooled analysis in 2023 (see PMC link).",
+    "Key Contacts / Website": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10529680/",
+    "Key Contacts / Website URLs": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC10529680/"
+    ],
+    "Tags / Keywords": [
+      "Produce prescriptions",
+      "Evaluation",
+      "Multi-site"
+    ],
+    "Data Source / Last Updated": "Peer-reviewed literature; last updated 2026-01-05",
+    "Public Links (Sources)": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC10529680/"
+    ]
+  }
+]

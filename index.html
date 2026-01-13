@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Food is Medicine Program Directory</title>
+    <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+    <div class="page">
+        <header class="header">
+            <h1>Food is Medicine Program Directory</h1>
+            <p class="subhead">
+                Proof of concept: global search + schema-driven filters + sortable results.
+            </p>
+        </header>
+
+        <!-- Mobile: collapsible filters/search (table-first UX) -->
+        <section class="mobileFilters" aria-label="Mobile filters">
+            <button id="mobileToggle" class="mobileFiltersBtn" aria-expanded="false" aria-controls="mobilePanel"
+                type="button">
+                <span>Filters & Search</span>
+                <span class="mobileFiltersCount"><span id="resultCountMobile">0</span> results</span>
+            </button>
+
+            <div id="mobilePanel" class="mobileFiltersPanel" hidden>
+                <div class="panel pad">
+                    <div id="filtersRootMobile"></div>
+                </div>
+            </div>
+        </section>
+
+        <main class="layout">
+            <!-- Desktop sidebar -->
+            <aside class="sidebar" aria-label="Filters sidebar">
+                <div class="panel pad">
+                    <div id="filtersRoot"></div>
+                </div>
+            </aside>
+
+            <!-- Main content -->
+            <section class="main" aria-label="Results">
+                <div class="spread">
+                    <div class="count"><span id="resultCount">0</span> results</div>
+                    <div class="muted">Click column headers to sort</div>
+                </div>
+
+                <div class="table-wrap" role="region" aria-label="Programs table">
+                    <table id="programsTable">
+                        <thead>
+                            <tr id="tableHeaderRow"></tr>
+                        </thead>
+                        <tbody id="tableBody"></tbody>
+                    </table>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+
+</html>
